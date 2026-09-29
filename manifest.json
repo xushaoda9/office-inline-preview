@@ -1,0 +1,9 @@
+{
+  "id": "office-inline-preview",
+  "name": "Office Inline Preview",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Embed local DOCX, XLSX and PPTX previews inside notes in Reading View and Live Preview.",
+  "author": "Local custom plugin",
+  "isDesktopOnly": true
+}
